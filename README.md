@@ -1,4 +1,4 @@
-# Room-automation project using cisco pkt
+# Room Automation System Using Cisco Packet Tracer project using cisco pkt
 
 📄 Submission Statement
 
@@ -59,7 +59,7 @@ If motion detected → Light ON
 
 If motion NOT detected → Light OFF
 
-2️⃣ Thermostat → Fan Automation (Updated as requested)
+2️⃣ Thermostat → Fan Automation 
 
 Controls the fan based on thermostat mode:
 
@@ -75,7 +75,7 @@ Programming Steps in Cisco Packet Tracer:
 
 Open IoT Server → Programming tab
 
-Add Rule
+Rule
 
 Condition: Thermostat.mode == Cool → Action: Fan.turnOff
 
